@@ -1,6 +1,14 @@
+# Наблюдатель
+
+>Реализация паттерна - "Наблюдатель" - учебный репозиторий.
+
+
+![Image alt](https://github.com/osadchii-serj/observer/raw/main/svg/pattern_observer.svg)
+
+***
+
+
 В приведенном примере кода реализован паттерн "Наблюдатель" с использованием трех основных классов: Subject, ObserverBase и Observer.
-
-
 
 1. Класс Subject
 
